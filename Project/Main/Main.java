@@ -200,7 +200,6 @@ public class Main extends Application {
                 infoLabel.setText(info);
                 return;
             }
-            
             // check if the id already exist
             if(scanId(idTxtField.getText()) != null){
                 infoLabel.setTextFill(Color.rgb(255,0,0,0.8));
