@@ -28,4 +28,5 @@ Lab 13: JAVAFX UI CONTROLS AND MULTIMEDIA
 
 Lab 14: JAVAFX Key and Mouse Events
 
-#### See PDF file for more info [pdf](Students_CS112_v001.pdf)
+#### Not all solutions are correct, but it will give you a hint of what to do :)
+#### • See PDF file for more info [pdf](Students_CS112_v001.pdf)
