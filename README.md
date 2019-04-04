@@ -20,7 +20,7 @@ Lab 09: Abstract Classes & Interfaces (continued)
 
 Lab 10: JAVAFX BASICS
 
-~ Lab 11: Event‐Driven Programming and Animations
+Lab 11: Event‐Driven Programming and Animations
 
 ~ Lab 12: Event‐Driven Programming and Animations (continue)
 
