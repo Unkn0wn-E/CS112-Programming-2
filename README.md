@@ -20,13 +20,12 @@ Lab 09: Abstract Classes & Interfaces (continued)
 
 Lab 10: JAVAFX BASICS
 
-Lab 11: Event‐Driven Programming and Animations
+~ Lab 11: Event‐Driven Programming and Animations
 
-Lab 12: Event‐Driven Programming and Animations (continue)
+~ Lab 12: Event‐Driven Programming and Animations (continue)
 
-Lab 13: JAVAFX UI CONTROLS AND MULTIMEDIA
+~ Lab 13: JAVAFX UI CONTROLS AND MULTIMEDIA
 
-Lab 14: JAVAFX Key and Mouse Events
+~ Lab 14: JAVAFX Key and Mouse Events
 
 #### Not all solutions are correct, but it will give you a hint of what to do :)
-#### • See PDF file for more info [pdf](Students_CS112_v001.pdf)
